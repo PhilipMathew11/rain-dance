@@ -1,4 +1,5 @@
 turn left
 turn right
 go towards the entrance
+twirl your hands
 dance
